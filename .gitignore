@@ -1,0 +1,9 @@
+CMakeLists.txt.user
+.idea/
+CMakeFiles
+cmake-build-*/*
+CMakeCache.txt
+Makefile
+CPPWA.cbp
+cmake_install.cmake
+.config
